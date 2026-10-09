@@ -1,0 +1,8 @@
+﻿{
+  "accounts": [
+    {
+      "username": "your_cdse_username",
+      "password": "your_cdse_password"
+    }
+  ]
+}
